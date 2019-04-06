@@ -1,4 +1,4 @@
-export const _ = '';
+//export const _ = '';
 const proxy = require('http-proxy-middleware');
 
 module.exports = function(app) {
